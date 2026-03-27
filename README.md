@@ -1,2 +1,2 @@
-- from ( github.com/bharathkumaarr )
+- from [github/bharathkumaarr](https://github.com/bharathkumaarr)
 - bharathkumar.me
